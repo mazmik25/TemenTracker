@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jun 07 08:16:12 WIB 2018
+0.baseType=DIRECTORY
+0.base=/Users/wmotionmac/Project/Android/TemanTreker/app/build/intermediates/transforms/dexMerger/debug/17
+0.path=classes.dex
+0.set=DEX
+count=1

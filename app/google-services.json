@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "945489718134",
+    "firebase_url": "https://temantreker.firebaseio.com",
+    "project_id": "temantreker",
+    "storage_bucket": "temantreker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945489718134:android:a0a1aec64feabefd",
+        "android_client_info": {
+          "package_name": "wmotion.co.id.temantreker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945489718134-dj6v8pt8knifcn9l241q2t1l16gl7h3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wmotion.co.id.temantreker",
+            "certificate_hash": "b1aab0d727ab294f22c7f7edc160c0dbf7356b47"
+          }
+        },
+        {
+          "client_id": "945489718134-d9ovcrd57b7bt19hje9vloogmd2g3osp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "945489718134-d9ovcrd57b7bt19hje9vloogmd2g3osp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRtnfeRze_8xZGL80XFcaq73RxGYnY6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945489718134-d9ovcrd57b7bt19hje9vloogmd2g3osp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
